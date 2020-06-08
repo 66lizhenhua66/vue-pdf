@@ -6,19 +6,20 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FranckFreiburger/vue-pdf.git"
+    "url": "git+https://github.com/66lizhenhua66/vue-pdf.git"
   },
   "keywords": [
     "vue.js",
     "pdf",
-    "viewer"
+    "viewer",
+    "zby"
   ],
-  "author": "Franck FREIBURGER",
+  "author": "lzh",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/FranckFreiburger/vue-pdf/issues"
+    "url": "https://github.com/66lizhenhua66/vue-pdf/issues"
   },
-  "homepage": "https://github.com/FranckFreiburger/vue-pdf#readme",
+  "homepage": "https://github.com/66lizhenhua66/vue-pdf#readme",
   "dependencies": {
     "pdfjs-dist": "github:lisandrop05/pdfjs-dist",
     "vue-resize-sensor": "^2.0.0"
