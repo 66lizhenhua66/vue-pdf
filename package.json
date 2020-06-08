@@ -1,7 +1,7 @@
 {
-  "name": "vue-pdf",
+  "name": "vue-pdf-zby",
   "version": "4.0.9",
-  "description": "vue.js pdf viewer",
+  "description": "zby vue.js pdf viewer",
   "main": "src/vuePdfNoSss.vue",
   "scripts": {},
   "repository": {
